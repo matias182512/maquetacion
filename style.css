@@ -1,0 +1,155 @@
+body{
+    background: rgb(106, 178, 106)00;
+    
+    
+}
+
+
+#cuadro1
+{
+    height: 200px;
+    width: 400px;
+    background: rgba(126, 78, 62, 0.473);
+    float: left;
+    position: absolute;
+    top: 50px;
+    left: 5%;
+    border-radius: 10px;
+
+}
+#cuadro2
+{
+    height: 200px;
+    width:400px;
+    background: rgba(106, 68, 39, 0.473);
+    position: absolute;
+    top: 260px;
+    left: 5%;
+    border-radius: 3px;
+}
+#cuadro3
+{
+    height: 200px;
+    width: 270px;
+    background: rgba(120, 84, 65, 0.473);
+    top: 210px;
+    left: 1%;
+    border-radius: 2px;
+    position: absolute;
+    
+}
+
+#cuadro4
+{
+    height: 410px;
+    width: 670px;
+    background: rgba(159, 113, 64, 0.473);
+    position: absolute;
+    top: -210px;
+    left: 105%;
+    border-radius: 6px;
+}
+
+#cuadro5
+{
+    height: 200px;
+    width: 500px;
+    background: rgba(128, 98, 64, 0.473);
+    float: left;
+    position: absolute;
+    top: 210px;
+    left: 70%;
+    border-radius: 2px;
+
+}
+.borra{
+    clear:both;
+}
+
+#cabecera{
+    position: static;
+    color: rgba(186, 205, 195, 0.685);
+  text-anchor: 300px;
+    font-size: 30px;
+    border-radius: 35px;
+
+}
+#cuadro6
+{
+    height: 200px;
+    width: 300px;
+    background: rgba(130, 106, 73, 0.473);
+    position: absolute;
+    top: 210px;
+    left: 200%;
+    border-radius: 3px;
+}
+
+
+#cuadro7
+{
+    height: 250px;
+    width: 250px;
+    background: rgba(143, 115, 78, 0.473);
+    position: absolute;
+    top: -420px;
+    left: 105%;
+    border-radius: 3px;
+}
+
+#main{
+    background-color: rgb(147, 118, 94);
+}
+
+#cuadro8
+{
+    height: 200px;
+    width: 320px;
+    background: rgba(143, 118, 79, 0.473);
+    position: absolute;
+    top: -150px;
+    left: 110%;
+    border-radius: 3px;
+}
+
+
+
+#cuadro9
+{
+    height: 200px;
+    width: 320px;
+    background: rgba(106, 80, 61, 0.473);
+    position: absolute;
+    top: 60px;
+    left: 110%;
+    border-radius: 3px;
+}
+
+
+
+#cuadro10
+{
+    height: 400px;
+    width: 300px;
+    background: rgba(125, 92, 67, 0.473);
+    position: absolute;
+    top: -150px;
+    left: 220%;
+    border-radius: 3px;
+}
+
+
+#cuadro11
+{
+    height: 250px;
+    width: 360px;
+    background: rgba(76, 65, 44, 0.473);
+    position: absolute;
+    top: -420px;
+    left: 200%;
+    border-radius: 3px;
+}
+
+
+
+
